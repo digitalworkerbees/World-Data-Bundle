@@ -118,6 +118,27 @@ Discover the most efficient and modern methods to integrate country flag icons i
 Flag Icons Stackblitz Example in Angular, A powerful approach to render country flag icons in your web apps.
 
 ---
+## 🫰Sample Queries:
+
+**For continents table:**
+<pre>
+CREATE TABLE `continent_master` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `code` varchar(3) NOT NULL,
+  `name` varchar(150) NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `code` (`code`,`name`)
+);
+</pre>
+
+**Insert Queries:**
+
+<pre>
+INSERT INTO `continent_master` VALUES (1,'AF','AFRICA');
+</pre>
+
+
+---
 
 ## 🔐 Licensing
 
