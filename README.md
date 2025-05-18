@@ -84,7 +84,7 @@ Each file is cleanly structured and ready for integration into apps, databases, 
 
 Get instant access to the full dataset:
 
-👉 [**Buy on Gumroad**](https://your-gumroad-url-here)  
+👉 [**Buy on Gumroad**](https://digitalworkerbees.gumroad.com/l/world-data-bundle)  
 
 ---
 
@@ -103,6 +103,19 @@ All major formats are included:
 - `.csv` — for spreadsheets and tabular data tools
 - `.json` — for developers and APIs
 - `.sql` — for direct database import (MySQL, PostgreSQL compatible)
+
+---
+## ♻️ How to Use SVG Country flag icons using css approach?
+
+Refer to live demo on [**Stackblitz**](https://stackblitz.com/edit/flag-icons-stackblitz-demo-add-country-flag-icons)
+
+For more instruction on how to setup and use svg using css class, Refer below articles:
+
+[1] [**Best Way to Add Country Flag Icons in Angular Using css approach (2025)**](https://medium.com/beingcoders/best-way-to-add-country-flags-icon-in-angular-6b593a25d0f3) <br/>
+Discover the most efficient and modern methods to integrate country flag icons into your Angular app in 2025 with this easy-to-follow guide.
+
+[2] [**Best Way To Add Country Flag Icons In Angular**](https://www.9mood.com/add-country-flag-icons-in-angular/) <br/>
+Flag Icons Stackblitz Example in Angular, A powerful approach to render country flag icons in your web apps.
 
 ---
 
