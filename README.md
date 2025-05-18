@@ -84,7 +84,7 @@ Each file is cleanly structured and ready for integration into apps, databases, 
 
 Get instant access to the full dataset:
 
-👉 [**Buy on Gumroad**](https://digitalworkerbees.gumroad.com/l/world-data-bundle)  
+👉 [**Buy on Gumroad**](https://digitalworkerbees.gumroad.com/l/world-data-bundle) ($5) 
 
 ---
 
@@ -92,7 +92,7 @@ Get instant access to the full dataset:
 
 Learn more about how and why this dataset was built, including use cases and technical decisions:
 
-📖 [**Read the Medium article**](https://your-medium-article-url-here)  
+📖 [**Read the Medium article**](https://medium.com/digitalworkerbees/world-data-bundle-full-continent-country-state-city-currency-dataset-1c0522ec2745)  
 
 ---
 
